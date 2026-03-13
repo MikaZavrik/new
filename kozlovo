@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Сайт группы ИТИТ-225</title>
+</head>
+<body>
+	<h1>Привет!</h1>
+	<a href="pivnenko/pivnenko.html">Пивненко Максим</a>
+<<<<<<< HEAD
+	<a href="kalinicheva/kalinicheva.html">Калиничева Станислава</a>
+=======
+	<h1>Привет!</h1>
+	<a href="vetelkin/vetelkin.html">Вячеслав Ветелкин</a>
+>>>>>>> eb398d5edbeb50109d967e9260182526e07aa840
+</body>
+</html>
